@@ -28,8 +28,9 @@ html, body{
 #back{
   padding-top:0%;
   border-width:0;
+  background-color:grey;
   transition-property:background-color;
-  transition-duration:4s;
+  transition-duration:3s;
   transition-timing-function:ease-in-out;
 }
 
